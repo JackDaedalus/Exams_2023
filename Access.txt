@@ -1,0 +1,16 @@
+Some students have been enquiring on how to access past exam papers. Please see the following:
+2015 - 2020 
+Students can access past exam papers from 2015-2020 via the Library Catalogue. Please note the login credentials are (case-sensitive): 
+Username: Student 
+Password: ThunderRoad 
+ 
+For more information on accessing these past exam papers visit the Library website: https://www.tudublin.ie/library/cc/search-resources/exam-papers/ 
+ 
+
+
+
+https://library-cc.tudublin.ie/search?/dExam+papers/dexam+papers/1%2C11%2C22%2CB/frameset&FF=dexam+papers&9%2C%2C9/indexsort=-
+
+
+GIS: Geographical Info Systems CMPU4032: 2022-23
+Data Viz: Data Visualisation SPEC9995: 2022-23
