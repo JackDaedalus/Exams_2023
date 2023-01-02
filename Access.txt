@@ -14,3 +14,12 @@ https://library-cc.tudublin.ie/search?/dExam+papers/dexam+papers/1%2C11%2C22%2CB
 
 GIS: Geographical Info Systems CMPU4032: 2022-23
 Data Viz: Data Visualisation SPEC9995: 2022-23
+
+GIS - 1 Paper a day
+Read all questions - find references in Lecture Notes - mark in book and Text file. 60 minutes
+Full paper - high level answers. 30 minutes
+
+
+Data Viz - One Question a day
+Real question - find references in Lecture Notes - mark in book and Text file. 20 minutes
+Answer question - high level. 10 minutes.
